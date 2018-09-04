@@ -1,5 +1,5 @@
 /**
- * @license Angular v6.1.6+1.sha-beda212
+ * @license Angular v6.1.6+1.sha-beda212.with-local-changes
  * (c) 2010-2018 Google, Inc. https://angular.io/
  * License: MIT
  */
@@ -484,7 +484,7 @@ function createCustomElement(component, config) {
 /**
  * @experimental
  */
-var VERSION = new Version('6.1.6+1.sha-beda212');
+var VERSION = new Version('6.1.6+1.sha-beda212.with-local-changes');
 
 /**
  * @license
